@@ -6,7 +6,7 @@ plugins {
     `maven-publish`
 }
 
-group = "co.touchlab"
+group = "co.touchlab.kmmbridge.test.custompackage"
 version = "1.0"
 
 repositories {
