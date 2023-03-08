@@ -55,7 +55,7 @@ android {
 }
 
 kmmbridge {
-    versionPrefix.set("1.0")
+    versionPrefix.set("1.1")
     spm(useCustomPackageFile = true)
     gitTagVersions()
     mavenPublishArtifacts()
